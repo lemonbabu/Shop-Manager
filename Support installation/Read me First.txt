@@ -1,0 +1,11 @@
+++++++++++++++++++++++++++++++++ WELCOME +++++++++++++++++++++++++++++
+Easy to setup this app in any windows operating system 
+Please follow some steps:
+1. Minimum dot net firmware require 4.00
+2. Install SqlLocalDB.MSI to support installtion directory 
+3. Install SQLSysCleTYpes.msi to support installtion directory 
+4. Install ReportViewer.msi to support installtion directory 
+5. Open the Pharmacy Management System.exe to App directory or we can copy the shortcut in desktop and open this
+
+
+Thank you for user this application
